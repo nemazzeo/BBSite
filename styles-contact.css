@@ -143,7 +143,7 @@ nav{
 	color: rgb(240, 6, 6);
 	text-decoration: none; /* This
 	removes the underline */
-	font-weight: bold;
+	font-weight: bolder;
 	}
 	a:hover{
 	color: black;
