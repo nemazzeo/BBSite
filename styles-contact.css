@@ -81,11 +81,12 @@ html, body {
    
 #logo {
     margin-bottom: 16px;
+    margin-top: 10px;
 	border: 3px dashed red;
 	text-align: center;
 	padding-top: 15px;
-  	padding-right: 15px;
-  	padding-bottom: 15px;
+  	padding-right: 0px;
+  	padding-bottom: 0px;
   	padding-left: 15px;
 }
 
